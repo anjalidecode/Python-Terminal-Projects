@@ -13,3 +13,10 @@ fortunes = [
     "😊 A pleasant experience is coming your way.",
     "🧠 Trust your instincts—they are right!"
 ]
+
+# Select a random message
+fortune = random.choice(fortunes)
+
+# Display the fortune
+print("🥠 Your Fortune Cookie says:")
+print(f"{fortune}")
