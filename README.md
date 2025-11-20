@@ -10,9 +10,7 @@ These might require if/else, random number generator, and loops.
 
 🫱 Rock Paper Scissors
 
-🫱 Rock Paper Scissors Lizard Spock
-
-🤑 Who Wants to Be a Millionaire
+🤑 Kaun Banega Crorepati
 
 ❓ Quiz Game
 
